@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ngu:home|Door43 (ngu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ngu|d43-ngu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ngu/archive/master.zip|d43-ngu.zip]]
+
+**Recent Changes**
+{{changes>ns = ngu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ngu|Ethnologue data]]
+
